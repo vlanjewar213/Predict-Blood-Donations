@@ -1,5 +1,6 @@
 # Predict-Blood-Donations
 Predict Blood Donations using "transfusion.data" dataset using Python in Google colab or Jupyter Notebook
+Task accomplished are:
 1. Inspecting transfusion.data file
 2. Loading the blood donations data
 3. Inspecting transfusion DataFrame
@@ -12,5 +13,5 @@ Predict Blood Donations using "transfusion.data" dataset using Python in Google 
 10. Training the linear regression model
 
 
-Created by Vrushali Lanjewar
+  Created by Vrushali Lanjewar
 
