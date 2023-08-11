@@ -1,4 +1,4 @@
-# Predict-Blood-Donations
+# Predict-Blood-Donations MedTourEasy Data Analyst Trainee Internship
 Predict Blood Donations using "transfusion.data" dataset using Python in Google colab or Jupyter Notebook;
 Task accomplished are:
 1. Inspecting transfusion.data file
